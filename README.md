@@ -1,4 +1,4 @@
-ㅈ# GED_KOREA
+## GED_KOREA
 
 고졸검정고시 모의고사 0.04fixV 웹페이지입니다.
 
